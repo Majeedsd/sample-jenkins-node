@@ -1,0 +1,14 @@
+{
+  "name": "sample-jenkins-node",
+  "version": "1.0.0",
+  "description": "Minimal Node.js project for Jenkins pipeline integration",
+  "scripts": {
+    "build": "echo Building... && sleep 1",
+    "test": "jest --coverage"
+  },
+  "author": "you",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
